@@ -1,0 +1,18 @@
+{
+  "short_name": "PayFlow",
+  "name": "PayFlow - Premium SaaS UPI Payments",
+  "description": "Mobile-first Sales + Order + UPI Payment Link application for small businesses.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0B0F19",
+  "background_color": "#0B0F19",
+  "orientation": "portrait"
+}
